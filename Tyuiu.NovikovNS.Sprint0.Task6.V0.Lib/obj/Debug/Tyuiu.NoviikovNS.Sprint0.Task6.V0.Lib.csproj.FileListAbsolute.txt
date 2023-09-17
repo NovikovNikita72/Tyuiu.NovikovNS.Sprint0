@@ -1,0 +1,6 @@
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\bin\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\bin\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.pdb
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\obj\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\obj\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\obj\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.dll
+C:\Users\Nick\source\repos\Tyuiu.NovikovNS.Sprint0\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib\obj\Debug\Tyuiu.NoviikovNS.Sprint0.Task6.V0.Lib.pdb
